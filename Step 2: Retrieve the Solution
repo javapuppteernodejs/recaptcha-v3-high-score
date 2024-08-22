@@ -1,0 +1,5 @@
+POST https://api.capsolver.com/getTaskResult
+{
+    "clientKey":"YOUR_API_KEY",
+    "taskId": "TASKID_OF_CREATETASK"
+}
