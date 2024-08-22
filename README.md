@@ -98,10 +98,6 @@ If the token returns a low score or isn’t accepted, review the earlier points 
 
 Achieving a human-like score when solving reCaptcha v3 can be challenging, but with CapSolver, it's streamlined. By following the steps outlined, you can easily achieve scores in the 0.7–0.9 range, mimicking human behavior effectively.
 
-## 📜 License
-
-This guide is licensed under the [MIT License](LICENSE). Feel free to use and modify it according to your needs.
-
 ## 📢 Disclaimer
 
 Using CapSolver or similar tools to bypass CAPTCHA protections should always comply with the terms of service of the website you are interacting with. Misuse of these tools can result in legal consequences. Always ensure you have the necessary permissions before employing such techniques.
