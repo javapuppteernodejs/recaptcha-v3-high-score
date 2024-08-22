@@ -1,6 +1,6 @@
 
 
-# Get a Human-like (>0.7–0.9) Score with reCaptcha v3 Using CapSolver
+# Get a Highest Score with reCaptcha v3 Using CapSolver
 
 ![How to solve reCaptcha v3](https://assets.capsolver.com/prod/images/post/2023-10-18/24e2fc61-c832-429c-8f50-a12f27e0d6cb.png)
 
