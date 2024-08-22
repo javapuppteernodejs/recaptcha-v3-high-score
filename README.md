@@ -8,7 +8,6 @@
 
 To start using [CapSolver](https://www.capsolver.com/?utm_source=github&utm_medium=repo&utm_campaign=recaptchav3score)., you need to sign up for an account. Visit the website and click on the ‘Sign Up’ button. You will be prompted to enter your email address and create a password. Once you have provided the necessary information, click on the ‘Sign Up’ button to create your account.
 
-![Sign up CapSolver](https://assets.capsolver.com/prod/images/post/2023-07-18/ba8e903b-d96a-4ac4-aab7-6bfb6a2a4112.gif)
 
 ## 🔖 Step 2: Add Funds to Your Account
 
