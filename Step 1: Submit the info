@@ -1,0 +1,10 @@
+POST https://api.capsolver.com/createTask
+{
+  "clientKey":"yourapiKey",
+  "task": {
+    "type": "ReCaptchaV3TaskProxyLess",
+    "websiteURL": "https://antcpt.com/score_detector",
+    "websiteKey": "6LcR_okUAAAAAPYrPe-HK_0RULO1aZM15ENyM-Mf",
+    "pageAction": "homepage"
+  }
+}
