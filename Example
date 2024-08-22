@@ -1,0 +1,16 @@
+var request = require('request');
+var options = {
+  method: 'POST',
+  url: 'https://antcpt.com/score_detector/verify.php',
+  headers: {
+    'Content-Type': 'application/json'
+  },
+  body: JSON.stringify({
+    "g-recaptcha-response": "here the token of capsolver"
+  })
+};
+
+request(options, function (error, response) {
+  if (error) throw new Error(error);
+  console.log(response.body);
+});
